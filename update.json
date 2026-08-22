@@ -1,8 +1,8 @@
 {
-  "latestVersionCode": 2,
-  "latestVersionName": "1.1.0",
-  "updateTitle": "Доступно важное обновление!",
-  "updateMessage": "Мы полностью переработали интерфейс, добавили новые анимации и улучшили работу плеера. Обновитесь для лучшего звучания!",
-  "forceUpdate": true,
-  "apkUrl": "СЮДА_ПОТОМ_ВСТАВИШЬ_ССЫЛКУ_НА_APK"
+    "latestVersionCode":  1,
+    "latestVersionName":  "0.5620",
+    "updateTitle":  "Доступно важное обновление!",
+    "updateMessage":  "test",
+    "forceUpdate":  true,
+    "apkUrl":  "https://github.com/eylesyoud-maker/GreenLab-Releases/raw/refs/heads/main/GreenLab_v1.apk"
 }
