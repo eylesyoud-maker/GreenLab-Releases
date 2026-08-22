@@ -4,5 +4,5 @@
     "updateTitle":  "Доступно важное обновление!",
     "updateMessage":  "1",
     "forceUpdate":  true,
-    "apkUrl":  "https://github.com/eylesyoud-maker/GreenLab-Releases/raw/refs/heads/main/GreenLab_v0.5623-DEV.apk"
+    "apkUrl":  "https://raw.githubusercontent.com/eylesyoud-maker/GreenLab-Releases/main/GreenLab_v0.5623-DEV.apk"
 }
