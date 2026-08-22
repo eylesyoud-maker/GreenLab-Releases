@@ -1,8 +1,8 @@
 {
-    "latestVersionCode":  3,
-    "latestVersionName":  "0.5622-DEV",
+    "latestVersionCode":  4,
+    "latestVersionName":  "0.5624-DEV",
     "updateTitle":  "Р”РѕСЃС‚СѓРїРЅРѕ РІР°Р¶РЅРѕРµ РѕР±РЅРѕРІР»РµРЅРёРµ!",
-    "updateMessage":  "test",
+    "updateMessage":  "Обновлена система авто-обновления",
     "forceUpdate":  true,
-    "apkUrl":  "https://raw.githubusercontent.com/eylesyoud-maker/GreenLab-Releases/main/GreenLab_v0.5622-DEV.apk"
+    "apkUrl":  "https://raw.githubusercontent.com/eylesyoud-maker/GreenLab-Releases/main/GreenLab_v0.5624-DEV.apk"
 }
