@@ -1,8 +1,8 @@
 {
-    "latestVersionCode":  26,
-    "latestVersionName":  "0.56457-DEV",
+    "latestVersionCode":  27,
+    "latestVersionName":  "0.7-DEV",
     "updateTitle":  "Доступно важное обновление!",
-    "updateMessage":  "fixed market 2",
+    "updateMessage":  "New systems and new menu profile, market update GLOBALLY UPDATE",
     "forceUpdate":  true,
-    "apkUrl":  "https://raw.githubusercontent.com/eylesyoud-maker/GreenLab-Releases/main/GreenLab_v0.56457-DEV.apk"
+    "apkUrl":  "https://raw.githubusercontent.com/eylesyoud-maker/GreenLab-Releases/main/GreenLab_v0.7-DEV.apk"
 }
